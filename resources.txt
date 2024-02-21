@@ -10,14 +10,20 @@ Icons8
 
 Images:
 -------
-freepik,unsplash
+freepik,unsplash,https://whirl.netlify.app/,Lottiefiles
 
 Learning:
 ---------
 freecodecamp
 GitHub
-
+frontend Mentor
+frontend Practise
+codewell
+devchallenges.io
+froggyflexbox
 
 communities:
 -------------
 hashnode,dev.to,codepen.io
+
+others:
